@@ -1,0 +1,12 @@
+{
+  "name": "dark pink theme",
+  "displayName": "dark pink theme",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "dark theme with pink text inside Mailspring.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
